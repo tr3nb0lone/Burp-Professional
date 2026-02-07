@@ -11,7 +11,7 @@
 
   productName = "pro";
   productDesktop = "BurpSuite Professional";
-  burpHash = "sha256-n/Ynq1ow8Me4m5QGUZT92IkC/oiNgaGLRjMEtqD+/RI=";
+  burpHash = "sha256-G56OUAmuf28hY9rcpQQmAu8C3DjNvKe+xnJnPuMWhqQ=";
 
   burpSrc = fetchurl {
     name = "burpsuite.jar";
